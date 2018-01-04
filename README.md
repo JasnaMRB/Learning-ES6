@@ -6,7 +6,7 @@ Code from following the [Egghead.io](https://egghead.io/courses/learn-es6-ecmasc
 2. [The `let` keyword](src/scripts/let-keyword.js)
 3. [Default values for function parameters](src/scripts/default-function-param-values.js)
 4. [`const` declarations](src/scripts/const.js) 
-5. Shorthand properties
+5. [Shorthand properties](src/scripts/shorthand-props.js)
 6. Object enhancements
 7. Spread operator `...`
 8. Template literals
