@@ -2,10 +2,10 @@
 
 Code from following the [Egghead.io](https://egghead.io/courses/learn-es6-ecmascript-2015) tutorial.
 
-1. [The arrow function `=>`](src/arrow-function.js)
-2. [The `let` keyword](src/let-keyword.js)
-3. [Default values for function parameters](src/default-function-param-values.js)
-4. [`const` declarations](src/const.js) 
+1. [The arrow function `=>`](src/scripts/arrow-function.js)
+2. [The `let` keyword](src/scripts/let-keyword.js)
+3. [Default values for function parameters](src/scripts/default-function-param-values.js)
+4. [`const` declarations](src/scripts/const.js) 
 5. Shorthand properties
 6. Object enhancements
 7. Spread operator `...`
