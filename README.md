@@ -8,7 +8,7 @@ Code from following the [Egghead.io](https://egghead.io/courses/learn-es6-ecmasc
 4. [`const` declarations](src/scripts/const.js) 
 5. [Shorthand properties](src/scripts/shorthand-props.js)
 6. [Object enhancements](src/scripts/object-enhancements.js)
-7. Spread operator `...`
+7. [Spread operator `...`](src/scripts/spread-operator.js)
 8. Template literals
 9. Destructuring assignment
 10. ES6 Modules: import and export
