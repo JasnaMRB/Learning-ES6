@@ -12,7 +12,7 @@ Code from following the [Egghead.io](https://egghead.io/courses/learn-es6-ecmasc
 8. [Template literals](src/scripts/template-literals.js)
 9. [Destructuring assignment](src/scripts/destructuring-assignment.js)
 10. ES6 Modules: import and export
-11. Converting an array-like object into an array with `Array.from()`
+11. [Converting an array-like object into an array with `Array.from()`](src/scripts/converting-to-array-with-array-from.js)
 12. Promises
 13. Generators
 14. Maps and WeakMaps
