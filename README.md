@@ -16,6 +16,6 @@ Code from following the [Egghead.io](https://egghead.io/courses/learn-es6-ecmasc
 12. Promises
 13. Generators
 14. Maps and WeakMaps
-15. Parameter object destructuring with required params
+15. [Parameter object destructuring with required params](src/scripts/param-obj-destructuring-required-vals.js)
 16. Rest params
 
