@@ -11,7 +11,7 @@ Code from following the [Egghead.io](https://egghead.io/courses/learn-es6-ecmasc
 7. [Spread operator `...`](src/scripts/spread-operator.js)
 8. [Template literals](src/scripts/template-literals.js)
 9. [Destructuring assignment](src/scripts/destructuring-assignment.js)
-10. ES6 Modules: import and export
+10. [ES6 Modules: import and export](src/modules-import-export/main.js)
 11. [Converting an array-like object into an array with `Array.from()`](src/scripts/converting-to-array-with-array-from.js)
 12. Promises
 13. Generators
