@@ -26,4 +26,4 @@ function addThreeThings (a, b, c) {
 
 addThreeThings(...first3); // 6
 addThreeThings(...second); // 15
-addThreeThings(...first); // 6; takes the first 3 eelements
+addThreeThings(...first); // 6; takes the first 3 elements

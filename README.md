@@ -14,8 +14,8 @@ Code from following the [Egghead.io](https://egghead.io/courses/learn-es6-ecmasc
 10. [ES6 Modules: import and export](src/modules-import-export/src/main.js)
 11. [Converting an array-like object into an array with `Array.from()`](src/scripts/converting-to-array-with-array-from.js)
 12. [Promises](src/scripts/promises.js)
-13. Generators
-14. Maps and WeakMaps
+13. [Generators](src/scripts/generators.js)
+14. [Maps and WeakMaps](src/scripts/maps-weakmaps.js)
 15. [Parameter object destructuring with required params](src/scripts/param-obj-destructuring-required-vals.js)
-16. Rest params
+16. [Rest params](src/scripts/rest-params.js)
 
